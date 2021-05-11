@@ -1,0 +1,31 @@
+[17:21:41] alt:V Server 2.23 (release)
+[17:21:41] Starting Jenex alt:V Server Viel spass on 0.0.0.0:7788
+[17:21:41] coreclr-module: version found: 1.0.1
+[17:21:41] coreclr-module: version found: 3.1.12
+[17:21:41] coreclr-module: version found: 5.0.3
+[17:21:41] coreclr-module: greatest version: 5.0.3
+[17:21:41] Loading resource freeroam
+[17:21:41] Loading resource server-extended
+[17:21:41] Loaded resource server-extended
+[17:21:41] Loading resource chat
+[17:21:41] Loaded resource chat
+[17:21:41] Loaded resource freeroam
+[17:21:41] Loading resource trainer
+[17:21:41] Loaded resource trainer
+[17:21:41] Required server permissions:
+[17:21:41] Optional server permissions:
+[17:21:41] Starting HTTP server on 0.0.0.0:7788
+[17:21:41] Main thread started (ThreadId: 59844)
+[17:21:41] Colshape thread started (ThreadId: 33956)
+[17:21:41] EntityStreamer thread started (ThreadId: 62500)
+[17:21:41] Network thread started (ThreadId: 18876)
+[17:21:41] Console thread started (ThreadId: 47588)
+[17:21:41] Server started
+[17:24:57] Stopping resource freeroam
+[17:24:57] Stopped resource freeroam
+[17:24:57] Stopping resource server-extended
+[17:24:57] Stopped resource server-extended
+[17:24:57] Stopping resource chat
+[17:24:57] Stopped resource chat
+[17:24:57] Stopping resource trainer
+[17:24:57] Stopped resource trainer
