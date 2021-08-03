@@ -3,7 +3,7 @@
 Jenex - Freeroam Server
 
 Alle Resources Sind Von Offizellen alt:V Webseite bezogen worden.
-https://altv.mp/
+https://altv.mp
 
 Tastenbelegung:
 M = Toggle Trainer Menu
