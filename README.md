@@ -1,6 +1,6 @@
 # Jenex - Freeroam Server
 
-Jenex - Freeroam Server
+Jenex - Freeroam Server Version 2.0 / 22.03.2022
 
 Alle Resources Sind Von Offizellen alt:V Webseite bezogen worden.
 https://altv.mp
