@@ -1,42 +1,40 @@
-[11:11:12] alt:V Server 9.6 (release)
-[11:11:12] Starting Jenex altV Freeroam Server on 0.0.0.0:7788
-[11:11:13][Error] Init for cmd failed: 0x80008096
-[11:11:14] Loading resource freeroam
-[11:11:14] Loading resource server-extended
-[11:11:14] Loaded resource server-extended
-[11:11:14] Loading resource chat
-[11:11:14] Loaded resource chat
-[11:11:14] Loaded resource freeroam
-[11:11:14] Loading resource trainer
-[11:11:15] Loaded resource trainer
-[11:11:15] Loading resource clothingmenu
-[11:11:15] ============================================================================
-[11:11:15]                             Better Clothing Menu                            
-[11:11:15]         © 2021 - 2021 Alec S. - DerEchteAlec - All Rights Reserved.         
-[11:11:15] ============================================================================
-[11:11:15] Loaded resource clothingmenu
-[11:11:15] Loading resource noclip
-[11:11:15] Loaded resource noclip
-[11:11:15] Required server permissions:
-[11:11:15] Optional server permissions:
-[11:11:15] Starting HTTP server on 0.0.0.0:7788
-[11:11:15] Main thread started (ThreadId: 10968)
-[11:11:15] Colshape thread started (ThreadId: 4780)
-[11:11:15] EntityStreamer thread started (ThreadId: 18544)
-[11:11:15] Sync thread started (ThreadId: 6436)
-[11:11:15] Network thread started (ThreadId: 9812)
-[11:11:15] Console thread started (ThreadId: 1916)
-[11:11:15][Warning] Server started in debug mode
-[11:11:24] Stopping resource freeroam
-[11:11:24] Stopped resource freeroam
-[11:11:24] Stopping resource server-extended
-[11:11:24] Stopped resource server-extended
-[11:11:24] Stopping resource chat
-[11:11:24] Stopped resource chat
-[11:11:24] Stopping resource clothingmenu
-[11:11:24] Stopped resource clothingmenu
-[11:11:24] Stopping resource trainer
-[11:11:24] Stopped resource trainer
-[11:11:24] Stopping resource noclip
-[11:11:24] Stopped resource noclip
-[11:11:25] Server shutdown
+[09:57:31] alt:V Server 12.10 (release)
+[09:57:31] Starting Jenex altV Freeroam Server on 0.0.0.0:7788
+[09:57:32] Loading resource freeroam
+[09:57:32] Loading resource chat
+[09:57:32] Loaded resource chat
+[09:57:32] Loaded resource freeroam
+[09:57:32] Loading resource server-extended
+[09:57:32] Loaded resource server-extended
+[09:57:32] Loading resource trainer
+[09:57:32] Loaded resource trainer
+[09:57:32] Loading resource clothingmenu
+[09:57:32] ============================================================================
+[09:57:32]                             Better Clothing Menu                            
+[09:57:32]         © 2021 - 2021 Alec S. - DerEchteAlec - All Rights Reserved.         
+[09:57:32] ============================================================================
+[09:57:32] Loaded resource clothingmenu
+[09:57:32] Loading resource noclip
+[09:57:32] Loaded resource noclip
+[09:57:32] Required server permissions:
+[09:57:32] Optional server permissions:
+[09:57:32] Starting HTTP server on 0.0.0.0:7788
+[09:57:32] Main thread started (ThreadId: 136396)
+[09:57:32] Colshape thread started (ThreadId: 136116)
+[09:57:32] EntityStreamer thread started (ThreadId: 136444)
+[09:57:32] Sync thread started (ThreadId: 136596)
+[09:57:32] Network thread started (ThreadId: 136432)
+[09:57:32] Console thread started (ThreadId: 136440)
+[09:57:32][Warning] Server started in debug mode
+[09:57:44] Stopping resource freeroam
+[09:57:44] Stopped resource freeroam
+[09:57:44] Stopping resource chat
+[09:57:44] Stopped resource chat
+[09:57:44] Stopping resource server-extended
+[09:57:44] Stopped resource server-extended
+[09:57:44] Stopping resource clothingmenu
+[09:57:44] Stopped resource clothingmenu
+[09:57:44] Stopping resource trainer
+[09:57:44] Stopped resource trainer
+[09:57:44] Stopping resource noclip
+[09:57:44] Stopped resource noclip
